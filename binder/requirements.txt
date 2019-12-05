@@ -1,8 +1,0 @@
-pandas
-sklearn
-graphviz
-matplotlib==3.0.3
-seaborn
-numpy
-plotly
-.
